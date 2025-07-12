@@ -1,6 +1,7 @@
-# confession_wall_app1
+# confession_wall_app
 
-A new Flutter project.
+The confession wall app is used to write any confession on the app and post it to the public.
+This is created as a anonymous coonfession wall app.
 
 ## Getting Started
 
